@@ -1,4 +1,4 @@
-# Da PhươngTiện Video Streaming
+# Đa PhươngTiện Video Streaming
 ## Nguyễn Xuân Lưu
 ## MSSV 20152346
 ## Đại học Bách khoa Hà Nội
